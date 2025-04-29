@@ -137,7 +137,7 @@ This project adheres to Microsoft's Responsible AI principles:
 
 ### 1. Clone the Repository
 
-git clone https://github.com/your-repo/code-analyzer.git  
+git clone https://github.com/swapnilvshekade/nexuscode_ai.git
 cd code-analyzer
 
 ### 2. Install Dependencies
