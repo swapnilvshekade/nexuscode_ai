@@ -138,6 +138,8 @@ This project adheres to Microsoft's Responsible AI principles:
 ### 1. Clone the Repository
 
 git clone https://github.com/swapnilvshekade/nexuscode_ai.git
+
+
 cd nexuscode_ai
 
 ### 2. Install Dependencies
